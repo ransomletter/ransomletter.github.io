@@ -24,3 +24,4 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Prof. Dr. Eric Bodden, Universität Paderborn & Fraunhofer IEM
 * Prof. Dr. Tibor Jager, Bergische Universität Wuppertal
 * Prof. Dr. Juraj Somorovsky, Universität Paderborn
+* JProf. Dr. Ben Hermann, Technische Universität Dortmund
