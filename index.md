@@ -16,3 +16,11 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Befördern Sie stattdessen Versicherungen, die die verursachten Umsatzeinbußen und Wiederherstellungsmaßnahmen absichern. Da die Versicherer zunehmend starke Sicherheitsmaßnahmen bei den Versicherungsnehmern einfordern, besteht hier die Möglichkeit, die IT-Sicherheit in der Breite signifikant zu erhöhen, ohne weitere regulatorische Maßnahmen treffen zu müssen.
 * Unterstützen Sie Unternehmen, die durch Ransomware-Angriffe in eine finanzielle Notlage geraten, in angemessener Weise, beispielsweise über einen Hilfsfonds, sodass diese nicht gezwungen werden, Lösegelder zu zahlen.
 * Forcieren Sie Maßnahmen, die deutschen Unternehmen in Zukunft Methoden und Technologien bereitstellen, um an sie gestellte IT-Sicherheitsanforderungen effektiv und dennoch möglichst kostengünstig erfüllen zu können.
+
+### Unterzeichnet durch:
+
+(Die angegebene Affiliation dient nur der besseren Identifikation der Person und ist kein Ausdruck der Position der jeweiligen genannten Organisation.)
+
+* Prof. Dr. Eric Bodden, Universität Paderborn & Fraunhofer IEM
+* Prof. Dr. Tibor Jager, Bergische Universität Wuppertal
+* Prof. Dr. Juraj Somorovsky, Universität Paderborn
