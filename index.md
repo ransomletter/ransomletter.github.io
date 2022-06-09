@@ -25,3 +25,5 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Prof. Dr. Tibor Jager, Bergische Universität Wuppertal
 * Prof. Dr. Juraj Somorovsky, Universität Paderborn
 * JProf. Dr. Ben Hermann, Technische Universität Dortmund
+* Jun.-Prof. Dr. Nils Fleischhacker, Ruhr-Universität Bochum
+* Prof. Dr. Andreas Zeller, CISPA Helmholtz-Zentrum für Informationssicherheit
