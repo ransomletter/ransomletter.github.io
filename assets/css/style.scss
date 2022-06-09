@@ -3,18 +3,10 @@
 
 @import "{{ site.theme }}";
 
-h1#project_title {
-    visibility: hidden;
+header.inner {
+  display: none;
 }
 
-h2#project_tagline {
-    visibility: hidden;
-}
-
-h1#header_wrap {
-    visibility: hidden;
-}
-
-div#footer_wrap.outer {
-    visibility: hidden;
+footer.inner {
+  display: none;
 }
