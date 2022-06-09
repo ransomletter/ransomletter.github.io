@@ -27,3 +27,4 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * JProf. Dr. Ben Hermann, Technische Universität Dortmund
 * Jun.-Prof. Dr. Nils Fleischhacker, Ruhr-Universität Bochum
 * Prof. Dr. Andreas Zeller, CISPA Helmholtz-Zentrum für Informationssicherheit
+* Prof. Dr. Johannes Kinder, Universität der Bundeswehr München
