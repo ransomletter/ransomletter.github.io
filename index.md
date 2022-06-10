@@ -38,3 +38,4 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Prof. Dr. Dr. h.c. Mira Mezini, Technische Universität Darmstadt
 * Prof. Dr. Matthew Smith, Universität Bonn, Fraunhofer FKIE
 * Prof. Dr. Daniel Gruss, Technische Universität Graz
+* Prof. Dr. Konrad Rieck, Technische Universität Braunschweig
