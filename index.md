@@ -11,8 +11,9 @@ Lösegeldzahlungen sind jedoch bei Ransomware die Wurzel allen Übels: Ransomwar
 **Vor diesem Hintergrund lässt sich feststellen, dass sich die Bereitschaft zu Lösegeldzahlungen mittlerweile für Deutschland zu einem massiven geostrategischen Risiko entwickelt hat, das nicht länger ignoriert werden darf.** Lösegeldzahlungen stärken Deutschlands geopolitische Konkurrenten und schwächen die deutsche Wirtschaft und den deutschen Staat, sie gefährden unsere kritische Infrastrukturen. Aber auch hier vor Ort setzen Lösegeldzahlungen falsche Anreize, denn sie ermöglichen Unternehmen und Behörden einen vermeintlich einfachen Ausweg, der zwar kurzzeitig das Leid lindert, aber mittelfristig mehr Probleme verursacht als er löst: Anstatt in die Verbesserung ihrer IT-Sicherheit und ihrer Leistungsfähigkeit zu investieren, zahlen die Opfer Lösegeld und erhöhen somit die Wahrscheinlichkeit weiterer erfolgreicher Angriffe gegen sich selbst und andere. Das Nachsehen dabei haben insbesondere kleinere Unternehmen, die sich Lösegelder und Cyber-Versicherungen nicht leisten können und bei einem Angriff potenziell vor dem Ruin stehen. Statt diese Milliarden an Euro jährlich dem organisierten Verbrechen und den Staaten, die diese Verbrecherbanden beheimaten, zukommen zu lassen, sollten deutsche Unternehmen diese Gelder vielmehr in ihre eigene IT-Sicherheit investieren, um somit einerseits die Hürden für weitere Angriffe zu erhöhen und andererseits die Finanzströme der Verbrecherbanden versiegen zu lassen.
 
 Die Unterzeichner:innen fordern daher die Bundespolitik auf:
-* **Stellen Sie generell das Zahlen von Lösegeld im Falle von Ransomware-Angriffen unter Strafe - in Deutschland und idealerweise in Europa.**
-* Unterbinden Sie auch Versicherungen, die diese Lösegeldzahlungen absichern.
+* **Stellen Sie generell das Zahlen von Lösegeld im Falle von Ransomware-Angriffen unter Strafe - in Deutschland und idealerweise in Europa - oder erlassen Sie andere Maßnahmen, welche die Zahlungen effektiv unterbinden.** Privatpersonen sollten von Strafmaßnahmen ausgenommen werden.
+* Schaffen Sie die steuerliche Absetzbarkeit von Lösegeldzahlungen (§ 33 EStG) ab.
+* Unterbinden Sie Versicherungen, die diese Lösegeldzahlungen absichern.
 * Befördern Sie stattdessen Versicherungen, die die verursachten Umsatzeinbußen und Wiederherstellungsmaßnahmen absichern. Da die Versicherer zunehmend starke Sicherheitsmaßnahmen bei den Versicherungsnehmern einfordern, besteht hier die Möglichkeit, die IT-Sicherheit in der Breite signifikant zu erhöhen, ohne weitere regulatorische Maßnahmen treffen zu müssen.
 * Unterstützen Sie Unternehmen, die durch Ransomware-Angriffe in eine finanzielle Notlage geraten, in angemessener Weise, beispielsweise über einen Hilfsfonds, sodass diese nicht gezwungen werden, Lösegelder zu zahlen.
 * Forcieren Sie Maßnahmen, die deutschen Unternehmen in Zukunft Methoden und Technologien bereitstellen, um an sie gestellte IT-Sicherheitsanforderungen effektiv und dennoch möglichst kostengünstig erfüllen zu können.
@@ -28,3 +29,9 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Jun.-Prof. Dr. Nils Fleischhacker, Ruhr-Universität Bochum
 * Prof. Dr. Andreas Zeller, CISPA Helmholtz-Zentrum für Informationssicherheit
 * Prof. Dr. Johannes Kinder, Universität der Bundeswehr München
+* Prof. Dr.-Ing. Thomas Eisenbarth, Universität zu Lübeck
+* Prof. Dr.-Ing. Ulrich Greveler, Hochschule Rhein-Waal
+* Prof. Dr. Andreas Noack, Hochschule Stralsund
+* Prof. Dr.-Ing. Dorothea Kolossa, Ruhr-Universität Bochum
+* Prof. Dr. Gregor Leander, Ruhr Universität Bochum
+
