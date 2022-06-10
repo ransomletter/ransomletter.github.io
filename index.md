@@ -22,20 +22,20 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 
 (Die angegebene Affiliation dient nur der besseren Identifikation der Person und ist kein Ausdruck der Position der jeweiligen genannten Organisation.)
 
-* Prof. Dr. Eric Bodden, Universität Paderborn & Fraunhofer IEM
-* Prof. Dr. Tibor Jager, Bergische Universität Wuppertal
-* Prof. Dr. Juraj Somorovsky, Universität Paderborn
-* JProf. Dr. Ben Hermann, Technische Universität Dortmund
-* Jun.-Prof. Dr. Nils Fleischhacker, Ruhr-Universität Bochum
-* Prof. Dr. Andreas Zeller, CISPA Helmholtz-Zentrum für Informationssicherheit
-* Prof. Dr. Johannes Kinder, Universität der Bundeswehr München
-* Prof. Dr.-Ing. Thomas Eisenbarth, Universität zu Lübeck
-* Prof. Dr.-Ing. Ulrich Greveler, Hochschule Rhein-Waal
-* Prof. Dr. Andreas Noack, Hochschule Stralsund
-* Prof. Dr.-Ing. Dorothea Kolossa, Ruhr-Universität Bochum
-* Prof. Dr. Gregor Leander, Ruhr-Universität Bochum
-* Prof. Dr. Florian Alt, Universität der Bundeswehr München
-* Prof. Dr. Dr. h.c. Mira Mezini, Technische Universität Darmstadt
-* Prof. Dr. Matthew Smith, Universität Bonn, Fraunhofer FKIE
-* Prof. Dr. Daniel Gruss, Technische Universität Graz
-* Prof. Dr. Konrad Rieck, Technische Universität Braunschweig
+1. Prof. Dr. Eric Bodden, Universität Paderborn & Fraunhofer IEM
+1. Prof. Dr. Tibor Jager, Bergische Universität Wuppertal
+1. Prof. Dr. Juraj Somorovsky, Universität Paderborn
+1. JProf. Dr. Ben Hermann, Technische Universität Dortmund
+1. Jun.-Prof. Dr. Nils Fleischhacker, Ruhr-Universität Bochum
+1. Prof. Dr. Andreas Zeller, CISPA Helmholtz-Zentrum für Informationssicherheit
+1. Prof. Dr. Johannes Kinder, Universität der Bundeswehr München
+1. Prof. Dr.-Ing. Thomas Eisenbarth, Universität zu Lübeck
+1. Prof. Dr.-Ing. Ulrich Greveler, Hochschule Rhein-Waal
+1. Prof. Dr. Andreas Noack, Hochschule Stralsund
+1. Prof. Dr.-Ing. Dorothea Kolossa, Ruhr-Universität Bochum
+1. Prof. Dr. Gregor Leander, Ruhr-Universität Bochum
+1. Prof. Dr. Florian Alt, Universität der Bundeswehr München
+1. Prof. Dr. Dr. h.c. Mira Mezini, Technische Universität Darmstadt
+1. Prof. Dr. Matthew Smith, Universität Bonn, Fraunhofer FKIE
+1. Prof. Dr. Daniel Gruss, Technische Universität Graz
+1. Prof. Dr. Konrad Rieck, Technische Universität Braunschweig
