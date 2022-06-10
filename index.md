@@ -33,5 +33,6 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Prof. Dr.-Ing. Ulrich Greveler, Hochschule Rhein-Waal
 * Prof. Dr. Andreas Noack, Hochschule Stralsund
 * Prof. Dr.-Ing. Dorothea Kolossa, Ruhr-Universität Bochum
-* Prof. Dr. Gregor Leander, Ruhr Universität Bochum
-
+* Prof. Dr. Gregor Leander, Ruhr-Universität Bochum
+* Prof. Dr. Florian Alt, Universität der Bundeswehr München
+* Prof. Dr. Dr. h.c. Mira Mezini, Technische Universität Darmstadt
