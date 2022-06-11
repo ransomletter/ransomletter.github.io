@@ -13,6 +13,7 @@ Lösegeldzahlungen sind jedoch bei Ransomware die Wurzel allen Übels: Ransomwar
 Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * **Erlassen Sie Maßnahmen und setzen Sie Anreize, welche Lösegeldzahlungen bei Ransomware-Angriffen effektiv unterbinden.**
 * Schaffen Sie die steuerliche Absetzbarkeit von Ransomware-Lösegeldzahlungen (§ 33 EStG) ab.
+* Führen Sie für Unternehmen ab einer bestimmten Größe eine Meldepflicht für Ransomware-Angriffe und Lösegeldzahlungen ein.
 * Unterbinden Sie Versicherungen, die diese Lösegeldzahlungen absichern.
 * Befördern Sie stattdessen Versicherungen, die die verursachten Umsatzeinbußen und Wiederherstellungsmaßnahmen absichern. Da die Versicherer zunehmend starke Sicherheitsmaßnahmen bei den Versicherungsnehmern einfordern, besteht hier die Möglichkeit, die IT-Sicherheit in der Breite signifikant zu erhöhen, ohne weitere regulatorische Maßnahmen treffen zu müssen.
 * Unterstützen Sie Unternehmen, die durch Ransomware-Angriffe in eine finanzielle Notlage geraten, in angemessener Weise, beispielsweise über einen Hilfsfonds, sodass diese nicht gezwungen werden, Lösegelder zu zahlen. Die Unterstützung sollte jedoch an Bedingungen geknüpft sein, welche sicherstellen, dass die Opfer ihre Pflicht zur eigenständigen Absicherung nicht vernachlässigen.
