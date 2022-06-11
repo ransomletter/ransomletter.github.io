@@ -40,3 +40,5 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 1. Prof. Dr. Daniel Gruss, Technische Universität Graz
 1. Prof. Dr. Konrad Rieck, Technische Universität Braunschweig
 1. Prof. Dr. Christian Bischof, Technische Universität Darmstadt
+1. Prof. Dr. Patricia Arias Cabarcos, Universität Paderborn
+1. Prof. Dr. M. Angela Sasse, Ruhr-Universität Bochum
