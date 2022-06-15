@@ -19,7 +19,7 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Unterstützen Sie Unternehmen, die durch Ransomware-Angriffe in eine finanzielle Notlage geraten, in angemessener Weise, beispielsweise über einen Hilfsfonds, sodass diese nicht gezwungen werden, Lösegelder zu zahlen. Die Unterstützung sollte jedoch an Bedingungen geknüpft sein, welche sicherstellen, dass die Opfer ihre Pflicht zur eigenständigen Absicherung nicht vernachlässigen.
 * Forcieren Sie Maßnahmen, die deutschen Unternehmen in Zukunft Methoden und Technologien bereitstellen, um an sie gestellte IT-Sicherheitsanforderungen effektiv und dennoch möglichst kostengünstig erfüllen zu können.
 
-### Unterzeichnet durch:
+### Erstunterzeichner:innen
 
 (Die angegebene Affiliation dient nur der besseren Identifikation der Person und ist kein Ausdruck der Position der jeweiligen genannten Organisation.)
 
