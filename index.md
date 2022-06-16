@@ -36,7 +36,7 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 1. Prof. Dr.-Ing. Dorothea Kolossa, Ruhr-Universität Bochum
 1. Prof. Dr. Gregor Leander, Ruhr-Universität Bochum
 1. Prof. Dr. Florian Alt, Universität der Bundeswehr München
-1. Prof. Dr. Dr. h.c. Mira Mezini, Technische Universität Darmstadt
+1. Prof. Dr. Mira Mezini, Technische Universität Darmstadt
 1. Prof. Dr. Matthew Smith, Universität Bonn, Fraunhofer FKIE
 1. Prof. Dr. Daniel Gruss, Technische Universität Graz
 1. Prof. Dr. Konrad Rieck, Technische Universität Braunschweig
