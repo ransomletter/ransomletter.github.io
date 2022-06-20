@@ -45,3 +45,7 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 1. Prof. Dr. M. Angela Sasse, Ruhr-Universität Bochum
 1. Prof. Dr. Stefan Brunthaler,	FI CODE, Universität der Bundeswehr München
 1. Prof. Dr.-Ing. Andreas Mayer, Hochschule Heilbronn
+
+### Weitere Unterzeichner:innen
+
+Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier ein.](https://forms.office.com/r/yePeav4ppC)
