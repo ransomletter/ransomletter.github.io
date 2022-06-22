@@ -1,4 +1,4 @@
-## <span style="color:red"> Dieser Text unterliegt einer Sperrfrist bis Montag 27.6.2022, 11:00. Bitte planen Sie Veröffentlichungen hierzu für diesen Zeitpunkt und nicht früher! </span>
+## <span style="color:red"> Dieser Text unterliegt einer Sperrfrist bis Montag 27.6.2022, 10:00. Bitte planen Sie Veröffentlichungen hierzu für diesen Zeitpunkt und nicht früher! </span>
 
 # Lösegeldzahlungen bei Ransomware-Angriffen: ein geostrategisches Risiko
 
