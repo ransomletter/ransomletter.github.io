@@ -1,4 +1,4 @@
-## Dieser Text unterliegt noch einem Presse-Embargo, bitte in keiner Form weitergeben oder veröffentlichen!
+## <span style="color:red"> Dieser Text unterliegt einer Sperrfrist bis Montag 27.6.2022, 11:00. Bitte planen Sie Veröffentlichungen hierzu für diesen Zeitpunkt und nicht früher! </span>
 
 # Lösegeldzahlungen bei Ransomware-Angriffen: ein geostrategisches Risiko
 
