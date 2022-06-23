@@ -50,4 +50,4 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 
 Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier ein.](https://forms.office.com/r/yePeav4ppC)
 
-1. Prof. Dr. Dominik Herrmann, Otto-Friedrich-Universität Bamberg
+23. Prof. Dr. Dominik Herrmann, Otto-Friedrich-Universität Bamberg
