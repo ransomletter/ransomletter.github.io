@@ -54,3 +54,4 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Prof. Dr. Dominik Herrmann, Otto-Friedrich-Universität Bamberg
 1. Prof. Dr. Michael Meier, Universität Bonn & Fraunhofer FKIE
 1. Dr. Matthias Wübbeling, Identeco GmbH & Co. KG
+1. Manuel HonkHase Atug, Netzaktivist
