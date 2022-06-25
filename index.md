@@ -50,6 +50,7 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 
 Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier ein.](https://forms.office.com/r/yePeav4ppC)
 
-23. Prof. Dr. Dominik Herrmann, Otto-Friedrich-Universität Bamberg
+{:start="23"}
+1. Prof. Dr. Dominik Herrmann, Otto-Friedrich-Universität Bamberg
 1. Prof. Dr. Michael Meier, Universität Bonn & Fraunhofer FKIE
 1. Dr. Matthias Wübbeling, Identeco GmbH & Co. KG
