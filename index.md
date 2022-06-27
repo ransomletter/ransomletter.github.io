@@ -1,4 +1,3 @@
-## <span style="color:red"> Dieser Text unterliegt einer Sperrfrist bis Montag 27.6.2022, 10:00. Bitte planen Sie Veröffentlichungen hierzu für diesen Zeitpunkt und nicht früher! </span>
 
 # Lösegeldzahlungen bei Ransomware-Angriffen: ein geostrategisches Risiko
 
@@ -19,9 +18,11 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 * Unterstützen Sie Unternehmen, die durch Ransomware-Angriffe in eine finanzielle Notlage geraten, in angemessener Weise, beispielsweise über einen Hilfsfonds, sodass diese nicht gezwungen werden, Lösegelder zu zahlen. Die Unterstützung sollte jedoch an Bedingungen geknüpft sein, welche sicherstellen, dass die Opfer ihre Pflicht zur eigenständigen Absicherung nicht vernachlässigen.
 * Forcieren Sie Maßnahmen, die deutschen Unternehmen in Zukunft Methoden und Technologien bereitstellen, um an sie gestellte IT-Sicherheitsanforderungen effektiv und dennoch möglichst kostengünstig erfüllen zu können.
 
-### Erstunterzeichner:innen
+### Unterzeichner:innen
 
 (Die angegebene Affiliation dient nur der besseren Identifikation der Person und ist kein Ausdruck der Position der jeweiligen genannten Organisation.)
+
+Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier ein.](https://forms.office.com/r/yePeav4ppC)
 
 1. Prof. Dr. Eric Bodden, Universität Paderborn & Fraunhofer IEM
 1. Prof. Dr. Tibor Jager, Bergische Universität Wuppertal
@@ -45,13 +46,12 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 1. Prof. Dr. M. Angela Sasse, Ruhr-Universität Bochum
 1. Prof. Dr. Stefan Brunthaler,	FI CODE, Universität der Bundeswehr München
 1. Prof. Dr.-Ing. Andreas Mayer, Hochschule Heilbronn
-
-### Weitere Unterzeichner:innen
-
-Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier ein.](https://forms.office.com/r/yePeav4ppC)
-
-{:start="23"}
 1. Prof. Dr. Dominik Herrmann, Otto-Friedrich-Universität Bamberg
 1. Prof. Dr. Michael Meier, Universität Bonn & Fraunhofer FKIE
 1. Dr. Matthias Wübbeling, Identeco GmbH & Co. KG
 1. Manuel HonkHase Atug, Netzaktivist
+1. Christine Regitz, Präsidentin Gesellschaft für Informatik e.V.
+1. Prof. Dr. Hannes Federrath, Universität Hamburg / Past President der Gesellschaft für Informatik e.V.
+1. David Fuhr, HiSolutions AG
+1. Alexander von Gernler, genua GmbH
+
