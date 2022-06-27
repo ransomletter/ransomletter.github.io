@@ -76,3 +76,4 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Martin Oberberger, Technische Hochschule Deggendorf
 1. Mark Semmler, Mark Semmler GmbH
 1. Konstantin Weddige, Lutra Security GmbH
+1. Peter Wilfahrt, Bundesverband Digitale Sicherheit e.V.
