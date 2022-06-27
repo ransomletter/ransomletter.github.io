@@ -52,7 +52,7 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Manuel HonkHase Atug, Netzaktivist
 1. Christine Regitz, Präsidentin Gesellschaft für Informatik e.V.
 1. Prof. Dr. Hannes Federrath, Universität Hamburg / Past President der Gesellschaft für Informatik e.V.
-1. Prof. Dr. Dominik Herrmann, Universität Hamburg / GI-Präsidium
+1. Prof. Dr. Dominik Herrmann, Universität Bamberg / GI-Präsidium
 1. Alexander von Gernler, genua GmbH
 1. David Fuhr, HiSolutions AG
 
