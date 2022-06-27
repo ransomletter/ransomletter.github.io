@@ -55,4 +55,12 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Prof. Dr. Dominik Herrmann, Universität Bamberg / GI-Präsidium
 1. Alexander von Gernler, genua GmbH
 1. David Fuhr, HiSolutions AG
-
+1. Udo Nolte	Fraunhofer IEM
+1. Steffen Zimmermann, Head of Industrial Security, VDMA - Verband Deutscher Maschinen- und Anlagenbau e.V.
+1. Jürgen Renfer, KUVB und Mitwirkender im CSN des BSI
+1. Prof. Dr. Marko Schuba ,FH Aachen
+1. Max Imbiel, ahead Security
+1. Johannah Sprinz, BSc	LMU München
+1. Carsten Hennig, diggitize GmbH
+1. Thore Tiemann, Universität zu Lübeck
+1. Jan Wichelmann, Universität zu Lübeck
