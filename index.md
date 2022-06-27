@@ -64,3 +64,10 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Carsten Hennig, diggitize GmbH
 1. Thore Tiemann, Universität zu Lübeck
 1. Jan Wichelmann, Universität zu Lübeck
+1. Max Rahner, Claroty GmbH
+1. Johannes Feldmann, M.A., M.A., MBA, Vindler GmbH
+1. Borys Sobieski, IT Leitung Piratenpartei Deutschland
+1. Inés Atug, HiSolutions AG
+1. Mirko Ross,  asvin GmbH
+1. Thomas R Koehler, CE21 GmbH, Holzkirchen
+1. Dr.-Ing. Daniel Demmler, Universität Hamburg
