@@ -71,3 +71,8 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Mirko Ross,  asvin GmbH
 1. Thomas R Koehler, CE21 GmbH, Holzkirchen
 1. Dr.-Ing. Daniel Demmler, Universität Hamburg
+1. Dr. Tim Sattler, Präsident ISACA Germany Chapter e.V.
+1. Dror-John Röcher, Privat
+1. Martin Oberberger, Technische Hochschule Deggendorf
+1. Mark Semmler, Mark Semmler GmbH
+1. Konstantin Weddige, Lutra Security GmbH
