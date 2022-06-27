@@ -84,4 +84,4 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 
 #### Aktualisierungen:
 
-27.06.2022: Korrektur, Größenvergleich mit Drogenhandel war so nicht ganz zutreffend, wurde daher entfernt.
+27.06.2022, 20:02 Korrektur, Größenvergleich mit Drogenhandel war so nicht ganz zutreffend, wurde daher entfernt.
