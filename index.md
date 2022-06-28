@@ -104,7 +104,6 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Folker Schmidt, HiSolutions AG
 1. Helge Klein, vast limits GmbH
 1. Christoph Frohneberg, unabhängiger Sicherheitsforscher 
-1. Prof. Dr. Dr. Dr. h.c. Vladimir:In Putin:Inska, Universität Kreml:Inska
 1. Vladimir Dragnić, Mitgliedschaft | Gesellschaft für Informatik e.V. (GI) & German Chapter of the Association for Computing Machinery e.V. (GChACM)
 1. Stefan Kremer, Inhaber AdminPress, Managing Partner KeDe Digital LLP
 1. Pascal Witte, Numiga GmbH
