@@ -22,7 +22,7 @@ Die Unterzeichner:innen fordern daher die Bundespolitik auf:
 
 (Die angegebene Affiliation dient nur der besseren Identifikation der Person und ist kein Ausdruck der Position der jeweiligen genannten Organisation.)
 
-Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier ein.](https://forms.office.com/r/yePeav4ppC)
+Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback senden Sie dieses gerne an: ransomletter@bodden.de. Besten Dank!
 
 1. Prof. Dr. Eric Bodden, Universität Paderborn & Fraunhofer IEM
 1. Prof. Dr. Tibor Jager, Bergische Universität Wuppertal
@@ -111,6 +111,10 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Alexander Hoßdorf, Hoßdorf & Weber GmbH
 1. Christian Hoßdorf, Hoßdorf & Weber GmbH
 1. Prof. Dr. Kristina Schädler, Fachhochschule Westküste
+1. Stephan Gerling, Kaspersky
+1. Ralf Benzmüller, G DATA CyberDefense
+1. Thomas Ernst, Check Point Software Technologies GmbH
+1. Stephan Gerling, Kaspersky
 
 #### Aktualisierungen:
 
