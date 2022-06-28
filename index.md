@@ -81,7 +81,7 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Holm Diening, Chief Security Officer gematik GmbH
 1. Jörg Backschues, backschues.NET
 1. Jürgen Peters, antei GmbH
-1. Vladimir Dragnić, Ein Mitglied des Leistungsgremiums der Gesellschaft für Informatik e.V. (GI) & German Chapter of the ACM e.V. (GChACM) in der Regionalgruppe Stuttgart/Böblingen
+1. Vladimir Dragnić, Mitglied des Leistungsgremiums der Gesellschaft für Informatik e.V. (GI) & German Chapter of the ACM e.V. (GChACM) in der Regionalgruppe Stuttgart/Böblingen
 1. Christian Leipold, Wealthcap Kapitalverwaltungsgesellschaft mbH
 1. Jens Liebau, bitinspect GmbH
 1. Steffen Ullrich, genua GmbH
@@ -102,7 +102,6 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Folker Schmidt, HiSolutions AG
 1. Helge Klein, vast limits GmbH
 1. Christoph Frohneberg, unabhängiger Sicherheitsforscher 
-1. Vladimir Dragnić, Mitgliedschaft | Gesellschaft für Informatik e.V. (GI) & German Chapter of the Association for Computing Machinery e.V. (GChACM)
 1. Stefan Kremer, Inhaber AdminPress, Managing Partner KeDe Digital LLP
 1. Pascal Witte, Numiga GmbH
 
