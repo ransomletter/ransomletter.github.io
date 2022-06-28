@@ -93,7 +93,7 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Benny "BenBE" Baumann, privat
 1. Dr. Matteo Große-Kampmann, AWARE7 GmbH
 1. Roland Hoheisel-Gruler, HS Bund Fachbereich Kriminalpolizei, Wiesbaden
-1. André Beuker , nextN GmbH
+1. André Beuker, nextN GmbH
 1. David Bothe, AWARE7 GmbH, Institut für Internet-Sicherheit
 1. Liss Heidrich, Universität Paderborn
 1. Prof. Dr. Steffen Hölldobler, TU Dresden
@@ -104,7 +104,7 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Christoph Frohneberg, unabhängiger Sicherheitsforscher 
 1. Stefan Kremer, Inhaber AdminPress, Managing Partner KeDe Digital LLP
 1. Pascal Witte, Numiga GmbH
-1. Randolf-Heiko Skerka, Privat
+1. Randolf-Heiko Skerka, privat
 1. Hagen Bauer, rusticus consulting
 1. Alexander Krause, CISPA Helmholtz-Zentrum für Informationssicherheit
 1. Volker Bentz, BRANDMAUER IT GmbH
@@ -116,3 +116,15 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 #### Aktualisierungen:
 
 27.06.2022, 20:02 Korrektur, Größenvergleich mit Drogenhandel war so nicht ganz zutreffend, wurde daher entfernt.
+
+## Presseartikel und Interviews im Nachgang der Veröffentlichung
+
+* [Lösegeldzahlungen bei Ransomware-Angriffen als geostrategisches Risiko](https://www.uni-paderborn.de/nachricht/98221) (Pressemittelung der Universität Paderborn, 27.6.2022)
+* [Offener Brief fordert Verbot von Lösegeldzahlungen](https://background.tagesspiegel.de/cybersecurity/offener-brief-fordert-verbot-von-loesegeldzahlungen) (Tagesspiegel, 27.6.2022, Zugriff erfordert kostenlose Registerierung)
+* [Lösegeldzahlungen "die Wurzel allen Übels"](https://www.golem.de/news/ransomware-loesegeldzahlungen-die-wurzel-allen-uebels-2206-166405.html) (Golem, 27.6.2022)
+* [Offener Brief: Lösegeldzahlungen bei Ransomware Wurzel allen Übels](https://www.heise.de/news/Offener-Brief-Ransomware-Loesegeldzahlungen-sind-die-Wurzel-allen-Uebels-7154572.html) (Heise Online, 27,6,2022)
+* [IT-Forscher verlangen Stopp von Lösegeldzahlungen nach Cyberangriffen](https://www.spiegel.de/netzwelt/netzpolitik/ransomware-it-forscher-fordern-stopp-von-loesegeldzahlungen-nach-cyberangriffen-a-5adea7c1-adca-4e8e-b867-03788e0678f5) (Spiegel Online, 27.6.2022)
+* [Offener Brief zu Lösegeldzahlungen bei Ransomware-Angriffen: ein geostrategisches Risiko](https://gi.de/meldung/offener-brief-zu-loesegeldzahlungen-bei-ransomware-angriffen-ein-geostrategisches-risiko) (Gesellschaft für Informatik, 27.6.2022)
+* [Schluss mit Lösegeldzahlungen
+](https://netzpalaver.de/2022/06/27/schluss-mit-loesegeldzahlungen/) (Netzpalaver, 27.6.2022)
+* [Interview mit Eric Bodden, Uni Paderborn, zu: Cybersicherheit – unterschätzt?](https://www.deutschlandfunk.de/interview-mit-eric-bodden-uni-paderborn-zu-cybersicherheit-unterschaetzt-dlf-6bb5987f-100.html?s=09) (Deutschlandfunk, 28.6.2022)
