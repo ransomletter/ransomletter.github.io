@@ -80,7 +80,34 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Solveigh Zieger, BÜNDNIS 90 / DIE GRÜNEN Kreisverband Mettmann
 1. Holm Diening, Chief Security Officer gematik GmbH
 1. Jörg Backschues, backschues.NET
-
+1. Jürgen Peters, antei GmbH
+1. Vladimir Dragnić, Ein Mitglied des Leistungsgremiums der Gesellschaft für Informatik e.V. (GI) & German Chapter of the ACM e.V. (GChACM) in der Regionalgruppe Stuttgart/Böblingen
+1. Christian Leipold, Wealthcap Kapitalverwaltungsgesellschaft mbH
+1. Jens Liebau, bitinspect GmbH
+1. Steffen Ullrich, genua GmbH
+1. Bernward Gruber, IT Leiter der Caritas Trägergesellschaft St. Mauritius 
+1. Felix von Leitner, Code Blau GmbH
+1. Dr. Horst Laschinsky, LaCoSys
+1. Stephan Eisvogel, embinet GmbH
+1. Rainer Winkler, Youtuber
+1. Dr. Sebastian Berndt, Universität zu Lübeck
+1. Benny "BenBE" Baumann, privat
+1. Dr. Matteo Große-Kampmann, AWARE7 GmbH
+1. Roland Hoheisel-Gruler, HS Bund Fachbereich Kriminalpolizei, Wiesbaden
+1. André Beuker , nextN GmbH
+1. David Bothe, AWARE7 GmbH, Institut für Internet-Sicherheit
+1. Liss Heidrich, Universität Paderborn
+1. Prof. Dr. Steffen Hölldobler, TU Dresden
+1. Prof. Dr. Andreas Pfitzmann, Technische Universität Dresden
+1. Dirk Schrader, Netwrix
+1. Jörg Jessen , Gründer AUTHADA GmbH, Darmstadt 
+1. Folker Schmidt, HiSolutions AG
+1. Helge Klein, vast limits GmbH
+1. Christoph Frohneberg, unabhängiger Sicherheitsforscher 
+1. Prof. Dr. Dr. Dr. h.c. Vladimir:In Putin:Inska, Universität Kreml:Inska
+1. Vladimir Dragnić, Mitgliedschaft | Gesellschaft für Informatik e.V. (GI) & German Chapter of the Association for Computing Machinery e.V. (GChACM)
+1. Stefan Kremer, Inhaber AdminPress, Managing Partner KeDe Digital LLP
+1. Pascal Witte, Numiga GmbH
 
 #### Aktualisierungen:
 
