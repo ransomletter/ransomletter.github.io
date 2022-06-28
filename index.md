@@ -104,6 +104,14 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Christoph Frohneberg, unabhängiger Sicherheitsforscher 
 1. Stefan Kremer, Inhaber AdminPress, Managing Partner KeDe Digital LLP
 1. Pascal Witte, Numiga GmbH
+1. Randolf-Heiko Skerka, Privat
+1. Hagen Bauer, rusticus consulting
+1. Alexander Krause, CISPA Helmholtz-Zentrum für Informationssicherheit
+1. Volker Bentz, BRANDMAUER IT GmbH
+1. Ralph Schmidt, Numiga GmbH
+1. Alexander Hoßdorf, Hoßdorf & Weber GmbH
+1. Christian Hoßdorf, Hoßdorf & Weber GmbH
+
 
 #### Aktualisierungen:
 
