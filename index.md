@@ -111,7 +111,7 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Ralph Schmidt, Numiga GmbH
 1. Alexander Hoßdorf, Hoßdorf & Weber GmbH
 1. Christian Hoßdorf, Hoßdorf & Weber GmbH
-
+1. Prof. Dr. Kristina Schädler, Fachhochschule Westküste
 
 #### Aktualisierungen:
 
