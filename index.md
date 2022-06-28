@@ -81,7 +81,7 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 1. Holm Diening, Chief Security Officer gematik GmbH
 1. Jörg Backschues, backschues.NET
 1. Jürgen Peters, antei GmbH
-1. Vladimir Dragnić, Mitglied des Leistungsgremiums der Gesellschaft für Informatik e.V. (GI) & German Chapter of the ACM e.V. (GChACM) in der Regionalgruppe Stuttgart/Böblingen
+1. Vladimir Dragnić, Mitglied des Leitungsgremiums der Regionalgruppe Stuttgart/Böblingen der Gesellschaft für Informatik e.V. (GI) & German Chapter of the ACM e.V. (GChACM)
 1. Christian Leipold, Wealthcap Kapitalverwaltungsgesellschaft mbH
 1. Jens Liebau, bitinspect GmbH
 1. Steffen Ullrich, genua GmbH
