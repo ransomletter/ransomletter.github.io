@@ -88,7 +88,6 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Bernward Gruber, IT Leiter der Caritas Trägergesellschaft St. Mauritius 
 1. Dr. Horst Laschinsky, LaCoSys
 1. Stephan Eisvogel, embinet GmbH
-1. Rainer Winkler, Youtuber
 1. Dr. Sebastian Berndt, Universität zu Lübeck
 1. Benny "BenBE" Baumann, privat
 1. Dr. Matteo Große-Kampmann, AWARE7 GmbH
