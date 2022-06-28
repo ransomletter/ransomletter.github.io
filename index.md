@@ -86,7 +86,6 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. Jens Liebau, bitinspect GmbH
 1. Steffen Ullrich, genua GmbH
 1. Bernward Gruber, IT Leiter der Caritas Trägergesellschaft St. Mauritius 
-1. Felix von Leitner, Code Blau GmbH
 1. Dr. Horst Laschinsky, LaCoSys
 1. Stephan Eisvogel, embinet GmbH
 1. Rainer Winkler, Youtuber
@@ -98,7 +97,6 @@ Auch Sie möchten diesen Aufruf unterzeichnen? [Dann tragen Sie sich bitte hier 
 1. David Bothe, AWARE7 GmbH, Institut für Internet-Sicherheit
 1. Liss Heidrich, Universität Paderborn
 1. Prof. Dr. Steffen Hölldobler, TU Dresden
-1. Prof. Dr. Andreas Pfitzmann, Technische Universität Dresden
 1. Dirk Schrader, Netwrix
 1. Jörg Jessen , Gründer AUTHADA GmbH, Darmstadt 
 1. Folker Schmidt, HiSolutions AG
