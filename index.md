@@ -120,7 +120,7 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 #### Aktualisierungen:
 
 * 27.06.2022, 20:02 Korrektur, Größenvergleich mit Drogenhandel war so nicht ganz zutreffend, wurde daher entfernt.
-* 28.2.2022, 13:01 Formular aufgrund zu vieler Fake-Einträge geschlossen. Danke Fefe!
+* 28.06.2022, 13:01 Formular aufgrund zu vieler Fake-Einträge geschlossen. Danke Fefe!
 
 ## Presseartikel und Interviews im Nachgang der Veröffentlichung
 
