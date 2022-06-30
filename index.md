@@ -116,6 +116,7 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 1. Thomas Ernst, Check Point Software Technologies GmbH
 1. Stephan Gerling, Kaspersky
 1. Torsten Landmann, IT.Grundschutz & Stadtwerke Stralsund
+1. Prof. Dr. Dirk Heuzeroth, Hochschule der Medien Stuttgart & Geschäftsführender Gesellschafter der ValueAbler GmbH
 
 #### Aktualisierungen:
 
