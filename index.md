@@ -117,6 +117,7 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 1. Stephan Gerling, Kaspersky
 1. Torsten Landmann, IT.Grundschutz & Stadtwerke Stralsund
 1. Prof. Dr. Dirk Heuzeroth, Hochschule der Medien Stuttgart & Geschäftsführender Gesellschafter der ValueAbler GmbH
+1. Prof. Dr. Johannes Blömer, Uni Paderborn
 
 #### Aktualisierungen:
 
