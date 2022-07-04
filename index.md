@@ -136,3 +136,5 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 ](https://netzpalaver.de/2022/06/27/schluss-mit-loesegeldzahlungen/) (Netzpalaver, 27.6.2022)
 * [Interview mit Eric Bodden, Uni Paderborn, zu: Cybersicherheit – unterschätzt?](https://www.deutschlandfunk.de/interview-mit-eric-bodden-uni-paderborn-zu-cybersicherheit-unterschaetzt-dlf-6bb5987f-100.html?s=09) (Deutschlandfunk, 28.6.2022)
 * [Versicherer halten an Lösegeld-Absicherung fest](https://background.tagesspiegel.de/cybersecurity/versicherer-halten-an-loesegeld-absicherung-fest) (Tagesspiegel, 21.7.2022)
+
+* [Die unfassbaren Kriminellen](https://www.faz.net/aktuell/wissen/computer-mathematik/die-unfassbaren-kriminellen-18142464.html) (Frankfurter Allgemeine Sonntagszeitung, 4.7.2022)
