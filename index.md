@@ -139,4 +139,4 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 * [Versicherer halten an Lösegeld-Absicherung fest](https://background.tagesspiegel.de/cybersecurity/versicherer-halten-an-loesegeld-absicherung-fest) (Tagesspiegel, 31.7.2022)
 * [Die unfassbaren Kriminellen](https://www.faz.net/aktuell/wissen/computer-mathematik/die-unfassbaren-kriminellen-18142464.html) (Frankfurter Allgemeine Sonntagszeitung, 4.7.2022)
 * [Logbuch Netzpolitik 433](https://logbuch-netzpolitik.de/lnp433-von-und-zu) (Logbuch Netzpolitik 433, ab ca. Minute 30)
-** Widerspricht teilweise den Aussagen der Versicherungsgesellschaft, siehe [Versicherer halten an Lösegeld-Absicherung fest](https://background.tagesspiegel.de/cybersecurity/versicherer-halten-an-loesegeld-absicherung-fest)
+	* Widerspricht teilweise den Aussagen der Versicherungsgesellschaft, siehe [Versicherer halten an Lösegeld-Absicherung fest](https://background.tagesspiegel.de/cybersecurity/versicherer-halten-an-loesegeld-absicherung-fest)
