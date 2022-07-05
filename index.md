@@ -134,6 +134,7 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 * [Schluss mit Lösegeldzahlungen
 ](https://netzpalaver.de/2022/06/27/schluss-mit-loesegeldzahlungen/) (Netzpalaver, 27.6.2022)
 * [Interview mit Eric Bodden, Uni Paderborn, zu: Cybersicherheit – unterschätzt?](https://www.deutschlandfunk.de/interview-mit-eric-bodden-uni-paderborn-zu-cybersicherheit-unterschaetzt-dlf-6bb5987f-100.html?s=09) (Deutschlandfunk, 28.6.2022)
+* [Lokalzeit Münsterland](https://www.ardmediathek.de/video/lokalzeit-muensterland/lokalzeit-muensterland-oder-29-06-2022/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTM1YzA2NDZjLTNiZmItNDYyZC04ZWZiLTkzYWRmMmU0NWE4NQ) (WDR, 29.6.2022)
 * [Experten schlagen Alarm wegen Ransomware-Attacken
 ](https://www.hessenschau.de/wirtschaft/wie-naturkatastrophen-experten-schlagen-alarm-wegen-ransomware-attacken,ransomware-offener-brief-100.html) (Hessenschau, 30.6.2022)
 * [Versicherer halten an Lösegeld-Absicherung fest](https://background.tagesspiegel.de/cybersecurity/versicherer-halten-an-loesegeld-absicherung-fest) (Tagesspiegel, 31.7.2022)
