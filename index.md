@@ -133,6 +133,8 @@ Ein weiteres Unterzeichnen des Briefs ist nicht mehr möglich. Für Feedback sen
 * [Offener Brief zu Lösegeldzahlungen bei Ransomware-Angriffen: ein geostrategisches Risiko](https://gi.de/meldung/offener-brief-zu-loesegeldzahlungen-bei-ransomware-angriffen-ein-geostrategisches-risiko) (Gesellschaft für Informatik, 27.6.2022)
 * [Schluss mit Lösegeldzahlungen
 ](https://netzpalaver.de/2022/06/27/schluss-mit-loesegeldzahlungen/) (Netzpalaver, 27.6.2022)
+* [Offener Brief fordert Maßnahmen gegen Ransomware
+](https://www.sciencemediacenter.de/alle-angebote/rapid-reaction/details/news/offener-brief-fordert-massnahmen-gegen-ransomware/) (science media center, 27.6.2022)
 * [Interview mit Eric Bodden, Uni Paderborn, zu: Cybersicherheit – unterschätzt?](https://www.deutschlandfunk.de/interview-mit-eric-bodden-uni-paderborn-zu-cybersicherheit-unterschaetzt-dlf-6bb5987f-100.html?s=09) (Deutschlandfunk, 28.6.2022)
 * [Fefes Blog](https://blog.fefe.de/?ts=9c471cc3) (27.6.2022)
 * [Lokalzeit Münsterland](https://www.ardmediathek.de/video/lokalzeit-muensterland/lokalzeit-muensterland-oder-29-06-2022/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTM1YzA2NDZjLTNiZmItNDYyZC04ZWZiLTkzYWRmMmU0NWE4NQ) (WDR, 29.6.2022)
